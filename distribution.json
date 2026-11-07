@@ -263,7 +263,9 @@
             "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/Xaero.s.World.Map.jar"
           }
         }
-      ]
+      ],
+      "icon": "https://raw.githubusercontent.com/s1man081ch-sketch/middle-earth-files/main/LoadingSeal.png"
     }
-  ]
+  ],
+  "rss": "https://raw.githubusercontent.com/s1man081ch-sketch/middle-earth-files/main/rss.xml"
 }
