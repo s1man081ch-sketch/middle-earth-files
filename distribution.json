@@ -264,19 +264,23 @@
           }
         },
         {
-          "id": "generated.fabricmod:architectury@jar",
+          "id": "generated.fabricmod:architectury:17.0.8@jar",
           "name": "architectury",
           "type": "FabricMod",
           "artifact": {
+            "size": 589654,
+            "path": "architectury-17.0.8-fabric.jar",
             "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/architectury-17.0.8-fabric.jar"
           }
         },
         {
-          "id": "generated.fabricmod:quick-skin@jar",
+          "id": "generated.fabricmod:quick-skin:4.1.0@jar",
           "name": "quick-skin",
           "type": "FabricMod",
           "artifact": {
-            "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/Quick%20Skin%20-%20Fabric%20-%201.21.8-4.1.0.jar"
+            "size": 5872610,
+            "path": "Quick.Skin.-.Fabric.-.1.21.8-4.1.0.jar",
+            "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/Quick.Skin.-.Fabric.-.1.21.8-4.1.0.jar"
           }
         }
       ],
