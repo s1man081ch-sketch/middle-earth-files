@@ -262,15 +262,6 @@
             "MD5": "4c9d2207a85100325b99a09f211f779b",
             "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/Xaero.s.World.Map.jar"
           }
-        },
-        {
-          "id": "generated.fabricmod:fabrictailor@jar",
-          "name": "fabrictailor",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 145331,
-            "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/fabrictailor-2.8.0.jar"
-          }
         }
       ],
       "icon": "https://raw.githubusercontent.com/s1man081ch-sketch/middle-earth-files/main/LoadingSeal.png"
