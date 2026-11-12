@@ -244,16 +244,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:customplayermodels@jar",
-          "name": "customplayermodels",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2860514,
-            "MD5": "1d7ae14cac4ee508c3eca530277e9380",
-            "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/CustomPlayerModels-Fabric-1.21.8-0.6.27a.jar"
-          }
-        },
-        {
           "id": "generated.fabricmod:xaerominimap@jar",
           "name": "xaerominimap",
           "type": "FabricMod",
