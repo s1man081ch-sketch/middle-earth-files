@@ -262,6 +262,22 @@
             "MD5": "4c9d2207a85100325b99a09f211f779b",
             "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/Xaero.s.World.Map.jar"
           }
+        },
+        {
+          "id": "generated.fabricmod:architectury@jar",
+          "name": "architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/architectury-17.0.8-fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:quick-skin@jar",
+          "name": "quick-skin",
+          "type": "FabricMod",
+          "artifact": {
+            "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/Quick%20Skin%20-%20Fabric%20-%201.21.8-4.1.0.jar"
+          }
         }
       ],
       "icon": "https://raw.githubusercontent.com/s1man081ch-sketch/middle-earth-files/main/LoadingSeal.png"
