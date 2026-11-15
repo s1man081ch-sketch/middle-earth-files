@@ -5,7 +5,7 @@
       "id": "Middle-earth",
       "name": "Middle-earth",
       "description": "Middle-earth — Minecraft 1.21.8 (Fabric 0.20.1)",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "address": "localhost:25565",
       "minecraftVersion": "1.21.8",
       "mainServer": true,
@@ -281,16 +281,6 @@
             "size": 1662334,
             "path": "easy_npc-fabric-1.21.8-6.5.2.jar",
             "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/easy_npc-fabric-1.21.8-6.5.2.jar"
-          }
-        },
-        {
-          "id": "generated.fabricmod:easy-npc-config-ui:6.5.2@jar",
-          "name": "easy_npc_config_ui",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 710351,
-            "path": "easy_npc_config_ui-fabric-1.21.8-6.5.2.jar",
-            "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/easy_npc_config_ui-fabric-1.21.8-6.5.2.jar"
           }
         },
         {
