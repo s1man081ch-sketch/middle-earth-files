@@ -5,7 +5,7 @@
       "id": "Middle-earth",
       "name": "Middle-earth",
       "description": "Middle-earth — Minecraft 1.21.8 (Fabric 0.20.1)",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "address": "localhost:25565",
       "minecraftVersion": "1.21.8",
       "mainServer": true,
@@ -231,16 +231,6 @@
             "size": 3793974,
             "MD5": "15c8c1ca618c3cc2751466b1a8938d4b",
             "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/Spark.jar"
-          }
-        },
-        {
-          "id": "generated.fabricmod:tlskincape@jar",
-          "name": "tlskincape",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1580592,
-            "MD5": "1ade31e3f3d28006a5055bc01b36659d",
-            "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/tl_skin_cape_fabric_--------.jar"
           }
         },
         {
