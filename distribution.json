@@ -302,6 +302,16 @@
             "path": "easy_npc_config_ui-fabric-1.21.8-6.5.2.jar",
             "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/easy_npc_config_ui-fabric-1.21.8-6.5.2.jar"
           }
+        },
+        {
+          "id": "generated.fabricmod:easy-npc-bundle:6.5.2@jar",
+          "name": "easy_npc_bundle",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 28410,
+            "path": "easy_npc_bundle-fabric-1.21.8-6.5.2.jar",
+            "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/easy_npc_bundle-fabric-1.21.8-6.5.2.jar"
+          }
         }
       ],
       "icon": "https://raw.githubusercontent.com/s1man081ch-sketch/middle-earth-files/main/LoadingSeal.png"
