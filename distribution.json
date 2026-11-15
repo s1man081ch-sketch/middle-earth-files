@@ -5,7 +5,7 @@
       "id": "Middle-earth",
       "name": "Middle-earth",
       "description": "Middle-earth — Minecraft 1.21.8 (Fabric 0.20.1)",
-      "version": "1.0.13",
+      "version": "1.0.14",
       "address": "localhost:25565",
       "minecraftVersion": "1.21.8",
       "mainServer": true,
@@ -271,16 +271,6 @@
             "size": 5872610,
             "path": "Quick.Skin.-.Fabric.-.1.21.8-4.1.0.jar",
             "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/Quick.Skin.-.Fabric.-.1.21.8-4.1.0.jar"
-          }
-        },
-        {
-          "id": "generated.fabricmod:arda_npcs:1.1.0@jar",
-          "name": "ArdaNPCs",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 4514569,
-            "MD5": "9cdac5ff393254a7ee464db5c85638bf",
-            "url": "https://github.com/s1man081ch-sketch/middle-earth-files/releases/download/client-files-v1.0.0/ArdaNPCs-1.1.0.jar"
           }
         }
       ],
